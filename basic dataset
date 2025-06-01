@@ -1,0 +1,53 @@
+{
+"_id" : 1,
+"details" : [{"name": "Bhumika", "age" : 23} ],
+"marks": [80, 89, 90]
+},
+{
+"_id" : 2, 
+"details" : [{ "name": "Geetha", "age" : 21 ],
+"marks": [90, 85, 70]
+},
+{
+"_id" : 3, 
+"details" : [ { "name": "Mahadevawmay", "age" : 25 } ],
+"marks": [86, 79, 70]
+},
+{
+"_id" : 4, 
+"details" : [{ "name": "Manjunath", "age" : 22}], 
+"marks": [88, 81, 78]
+}
+ "Gender" : "Male", 
+  "class" : "V", 
+  "age" : 14, 
+  "grd_point" : 35.1257 
+} 
+ 
+{ 
+  "_id" : 4, 
+  "std_name" : "Geetha", 
+  "Gender" : "Female", 
+  "class" : "X", 
+  "age" : 17, 
+  "grd_point" : 36.2514 
+} 
+ 
+{ 
+  "_id" : 5, 
+  "std_name" : "Bhomika", 
+  "Gender" : "Female", 
+  "class" : "X", 
+  "age" : 19, 
+  "grd_point" : 35.5201 
+} 
+ 
+{ 
+  "_id" : 6, 
+  "std_name" : "Nitin", 
+  "Gender" : "Male", 
+ "class" : "V", 
+  "age" : 16, 
+  "grd_point" : 35.5201 
+} 
+ 
